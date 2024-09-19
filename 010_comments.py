@@ -84,7 +84,7 @@
 # yourself if you like.
 
 # Type your name as a comment on the next line.
-
+# My name is Udeme Ekom willie, you can call me williams
 # Hint: if you're on a Mac, type opt + 3 to get a #
 
 # Now open up 011_identity.py and get started with some
